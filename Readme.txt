@@ -1,0 +1,1 @@
+This project is to predict the quality of the PCB based on the data point value from the 3D Automated Optical Inspection (AOI) machines
